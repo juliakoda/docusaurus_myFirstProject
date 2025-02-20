@@ -69,7 +69,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Rome and Juliet film',
+      title: 'R&J Home page',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo_romeo and juliet.png',
