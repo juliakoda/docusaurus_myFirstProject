@@ -69,7 +69,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Rome and Juliet film',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo_romeo and juliet.png',
@@ -105,7 +105,7 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Shakespeake Plays',
+              label: 'Shakespeare Plays',
               href: 'https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/romeo-and-juliet/',
             },
             {
