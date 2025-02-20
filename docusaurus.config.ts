@@ -72,7 +72,7 @@ const config: Config = {
       title: 'My Site',
       logo: {
         alt: 'My Site Logo',
-        src: 'static\img\logo_romeo and juliet.png',
+        src: 'img/juliet.jpg',
       },
       items: [
         {
