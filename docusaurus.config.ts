@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Juliette',
+  title: 'Juliet',
   tagline: 'Romeo is cool',
   favicon: 'img/favicon.ico',
 
