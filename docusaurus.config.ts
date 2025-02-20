@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Juliet',
   tagline: 'Romeo is cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo_romeo and juliet.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
