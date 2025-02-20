@@ -113,8 +113,8 @@ const config: Config = {
               href: 'https://discordapp.com/invite/docusaurus',
             },
             {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'First Meeting Scene',
+              href: 'https://www.youtube.com/watch?v=UAf2OuBkiBM',
             },
           ],
         },
