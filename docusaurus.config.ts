@@ -5,9 +5,9 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Juliet',
+  title: 'Atlassian',
   tagline: 'Romeo is cool',
-  favicon: 'img/logo_romeo and juliet.png',
+  favicon: 'img/atlassian logo.svg',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -72,7 +72,7 @@ const config: Config = {
       title: 'R&J Home page',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo_romeo and juliet.png',
+        src: 'atlassian logo.svg',
       },
       items: [
         {
@@ -105,16 +105,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Shakespeare Plays',
-              href: 'https://www.shakespeare.org.uk/explore-shakespeare/shakespedia/shakespeares-plays/romeo-and-juliet/',
+              label: 'Community feed',
+              href: 'https://community.atlassian.com/',
             },
             {
-              label: 'Wikipedia on Romeo and Juliet',
-              href: 'https://en.wikipedia.org/wiki/Romeo_%2B_Juliet',
+              label: 'Learning Paths',
+              href: 'https://university.atlassian.com/student/activity/2227811-all-learning-paths?utm_source=community&utm_medium=comarketing&utm_campaign=P:atlassian*O:community*C:community*W:newpaths*H:11/20/24*I:cset_awesome*#/page/67a61301d30fb23b48c45689',
             },
             {
-              label: 'First Meeting Scene',
-              href: 'https://www.youtube.com/watch?v=UAf2OuBkiBM',
+              label: 'Community Classes',
+              href: 'https://ace.atlassian.com/community-led-classes/',
             },
           ],
         },
