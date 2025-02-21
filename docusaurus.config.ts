@@ -6,7 +6,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Atlassian',
-  tagline: 'Let's unleash the potential of every team',
+  tagline: 'Lets unleash the potential of every team',
   favicon: 'img/atlassian logo.svg',
 
   // Set the production url of your site here
