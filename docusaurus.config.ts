@@ -69,10 +69,10 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'R&J Home page',
+      title: 'Atlassian Home page',
       logo: {
         alt: 'My Site Logo',
-        src: 'atlassian logo.svg',
+        src: 'img/atlassian logo.svg',
       },
       items: [
         {
