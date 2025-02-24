@@ -21,7 +21,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'What is a TAM',
-    Svg: require('@site/static/img/Picture4.svg').default,
+    Svg: require('@site/static/img/illustrations-spot-Clipboard List.svg').default,
     description: (
       <>
         Learn how a Technical Account Manager can help you get the most out of your Atlassian investment.
@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Have a general question for us?',
-    Svg: require('@site/static/img/picture third.svg').default,
+    Svg: require('@site/static/img/Picture5.svg').default,
     description: (
       <>
         Our team can help answer questions about your account, privacy and security, or product advice.
