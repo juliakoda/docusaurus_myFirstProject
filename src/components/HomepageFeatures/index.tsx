@@ -31,7 +31,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Have a general question for us?',
-    Svg: require('@site/static/img/Picture5.svg').default,
+    Svg: require('@site/static/img/question.svg').default,
     description: (
       <>
         Our team can help answer questions about your account, privacy and security, or product advice.
