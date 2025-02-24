@@ -20,22 +20,22 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'What is a TAM',
     Svg: require('@site/static/img/Picture4.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Learn how a Technical Account Manager can help you get the most out of your Atlassian investment.
+
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Have a general question for us?',
     Svg: require('@site/static/img/picture third.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Our team can help answer questions about your account, privacy and security, or product advice.
+
       </>
     ),
   },
