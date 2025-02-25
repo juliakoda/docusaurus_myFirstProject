@@ -1,12 +1,13 @@
 ---
 sidebar_position: 1
 ---
+![img]
 
 # New research: Write more clearly and become a super communicator
 
 How many times have you read an email or project brief and thought, “**Wait, what did that say?**” or worse, stopped reading partway through and moved on to the next task?
 
-Ineffective written communication is all too common across teams and organizations, and its impact is substantial. More than a third of the workforce [loses 40-plus hours](https://www.atlassian.com/blog/communication/how-to-avoid-emotional-overhead-at-work) each year to unclear written communication. That’s an entire week of work! Poor writing has the potential to create confusion and misalignment, slow decision-making, and (lead to costly misunderstandings).
+Ineffective written communication is all too common across teams and organizations, and its impact is substantial. More than a third of the workforce [loses 40-plus hours](https://www.atlassian.com/blog/communication/how-to-avoid-emotional-overhead-at-work) each year to unclear written communication. That’s an entire week of work! Poor writing has the potential to create confusion and misalignment, slow decision-making, and [lead to costly misunderstandings](https://hbr.org/2022/10/research-simple-writing-pays-off-literally?utm_campaign=hbr&utm_medium=social&utm_source=facebook).
 
 ## How to write more clearly with Smart Brevity
 
