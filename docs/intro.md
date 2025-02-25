@@ -8,42 +8,18 @@ How many times have you read an email or project brief and thought, “**Wait, w
 
 Ineffective written communication is all too common across teams and organizations, and its impact is substantial. More than a third of the workforce [loses 40-plus hours](https://www.atlassian.com/blog/communication/how-to-avoid-emotional-overhead-at-work) each year to unclear written communication. That’s an entire week of work! Poor writing has the potential to create confusion and misalignment, slow decision-making, and (lead to costly misunderstandings).
 
-## Getting Started
+## How to write more clearly with Smart Brevity
 
-Get started by **creating a new site**.
+Smart Brevity helps cut through the noise. It makes communication clearer and more effective by teaching people how to “write less to say more.”
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+Let’s review the core principles of the Smart Brevity method:
 
-### What you'll need
+Grab attention: Start with the most important detail. Summarize it in one strong sentence.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+ 1. **Keep it simple**: Use straightforward language and tight sentences.
+ 2. **Write like a human**: Avoid jargon. Write as if you’re speaking to a colleague over coffee.
+ 3. **Know your audience**: Write for your audience and address their specific needs.
+ 4. **Stay scannable**: Use short paragraphs, bolding, numbered lists (like this one!), and bullet points to make your message easy to scan.
+ 5. **Enough is enough**: Use as few words as possible to get your message across.
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Watch Axios Co-Founder Jim VandeHei’s [TED Talk](https://www.ted.com/talks/jim_vandehei_the_art_of_smart_brevity_write_less_say_more?subtitle=en) to learn more about the Smart Brevity philosophy.
