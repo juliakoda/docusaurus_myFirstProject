@@ -15,13 +15,13 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/top (1).svg').default,
     description: (
       <>
-        From medicine and space travel, to disaster response and pizza deliveries, our products help teams all over the planet advance humanity through the power of software.
+        From medicine and space travel, to disaster response and pizza deliveries.
       </>
     ),
   },
   {
     title: 'What is a TAM',
-    Svg: require('@site/static/img/illustrations-spot-Clipboard List.svg').default,
+    Svg: require('@site/static/img/picturehp.svg').default,
     description: (
       <>
         Learn how a Technical Account Manager can help you get the most out of your Atlassian investment.
