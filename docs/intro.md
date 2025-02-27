@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # New research: Communicate like a pro
 
-![img](/static/img/picture%20third.svg)
+<!-- ![img](/static/img/picture%20third.svg) -->
 
 How many times have you read an email or project brief and thought, “**Wait, what did that say?**” or worse, stopped reading partway through and moved on to the next task?
 
