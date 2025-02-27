@@ -2,30 +2,15 @@
 sidebar_position: 5
 ---
 
-# Deploy your site
+# Tables
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+This page shows you cool tables on Atlassian site. 
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam.
 
-## Build your site
-
-Build your site **for production**:
-
-```bash
-npm run build
-```
-
-The static files are generated in the `build` folder.
-
-## Deploy your site
-
-Test your production build locally:
-
-```bash
-npm run serve
-```
-
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
-
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+| Term | Definition | Example |
+|----- | ----- |  ------|
+| **Lorem** | Aenean id felis ut felis sollicitudin aliquet. Etiam pharetra ligula vitae felis auctor, at sodales urna tincidunt. Morbi vestibulum justo nec nulla convallis, ac vehicula ligula vehicula. Suspendisse mollis ante a nulla volutpat, et euismod est tincidunt. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Ipsum** | Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt. Mauris nec sapien id libero euismod sollicitudin. Fusce pharetra nisl et ex rhoncus, a scelerisque metus faucibus. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Dolor** | Sed varius metus ac libero facilisis, in volutpat purus feugiat. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
+| **Sit** | Curabitur auctor est ut nunc interdum, eget auctor elit tempor. Morbi fermentum felis at sem mollis, ut fermentum erat mollis. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
