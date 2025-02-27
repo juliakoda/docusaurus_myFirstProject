@@ -2,42 +2,22 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# Headings
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+This page shows you cool headings on Atlassian site.
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+# Heading 1
 
-## Create your first React Page
+Curabitur mollis auctor tellus eget auctor. Suspendisse imperdiet ac nulla quis aliquet. Donec mauris augue, congue sit amet erat nec, tristique viverra purus. Etiam dictum quam id nisl lacinia maximus. Phasellus risus est, mattis eget lacus sit amet, dictum accumsan lacus. Morbi sagittis metus at ex imperdiet, id ullamcorper metus gravida. Vestibulum nec dapibus sem. Morbi fringilla purus ac mollis laoreet. Vivamus dictum vulputate mi, vitae molestie enim euismod in.
 
-Create a file at `src/pages/my-react-page.js`:
+## Heading 2
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+Phasellus commodo est sed est posuere pharetra. Maecenas eget ligula id velit convallis molestie et ac mauris. Suspendisse ornare nisi nec ante tempus fermentum. Vestibulum non vulputate enim. Aenean vitae posuere tellus. Morbi euismod, augue vitae auctor accumsan, quam libero rhoncus orci, consequat laoreet nunc arcu eget orci. Curabitur non ligula ut ipsum commodo semper. Duis non ornare augue. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec ullamcorper, libero ac gravida volutpat, orci odio fringilla ipsum, vel lobortis lorem nulla vitae velit. Proin porta fermentum libero. Vestibulum consectetur finibus sapien in gravida. Aenean fermentum id elit congue posuere. Nam faucibus euismod dolor a rutrum. Maecenas id justo massa [vitae molestie enim euismod in](https://docusaurus.io/docs/api/themes/configuration#navbar-logo).
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+### Heading 3
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
+Vestibulum dui nibh, elementum at lectus sed, scelerisque bibendum odio. Aenean elementum nibh nec aliquet consectetur. Sed malesuada volutpat purus, ac commodo mi congue id. Quisque faucibus vulputate lorem, a placerat felis ullamcorper a. Mauris sollicitudin erat at tellus sollicitudin, et efficitur quam venenatis. Etiam placerat sapien ante, nec fermentum felis ornare sed. Nam varius turpis odio, eget semper augue interdum quis. Praesent gravida nulla non bibendum malesuada. Donec sit amet risus eu nisl imperdiet porttitor. Morbi scelerisque a metus in tincidunt.
 
-## Create your first Markdown Page
+#### Heading 4
 
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+Vivamus dignissim libero vel sem maximus, et iaculis turpis euismod. Maecenas auctor tellus vel lobortis sagittis. Etiam efficitur nunc id bibendum lobortis. Aenean non sapien iaculis, euismod lectus nec, venenatis augue. Cras nunc enim, venenatis et ligula ac, efficitur sagittis ligula. Suspendisse ante felis, scelerisque nec posuere non, suscipit ut ligula. In fermentum urna vitae ultricies iaculis. Maecenas luctus neque libero, vitae aliquam ex feugiat a.
