@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# New research: Write more clearly and become a super communicator
+# New research: Communicate like a pro
 
 How many times have you read an email or project brief and thought, “**Wait, what did that say?**” or worse, stopped reading partway through and moved on to the next task?
 
