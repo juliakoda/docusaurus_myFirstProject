@@ -7,19 +7,15 @@ sidebar_position: 6
 This page shows you cool code blocks on Atlassian site. 
 
 ````md
-```export default {
-  "title": "Atlassian",
-  "tagline": "Lets unleash the potential of every team",
-  "favicon": "img/atlassian logo.svg",
-  "url": "https://github.com",
+```jsx title="src/components/HelloDocusaurus.js"
+function WelcometoAtlassian() {
+  return <h1>Hello, Atlassian guy!</h1>;
 }
 ```
 ````
 
-```export default {
-  "title": "Atlassian",
-  "tagline": "Lets unleash the potential of every team",
-  "favicon": "img/atlassian logo.svg",
-  "url": "https://github.com",
+```jsx title="src/components/HelloDocusaurus.js"
+function WelcometoAtlassian() {
+  return <h1>Hello, Atlassian guy!</h1>;
 }
 ```
