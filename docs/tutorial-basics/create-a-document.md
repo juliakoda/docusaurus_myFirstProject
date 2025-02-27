@@ -2,56 +2,29 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Lists
 
-Documents are **groups of pages** connected through:
+This page shows you cool lists on Atlassian site. 
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+# Unordered list with two levels
 
-## Create your first Doc
+- **Level One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt. Mauris nec sapien id libero euismod sollicitudin. 
+    - **Sublevel One**  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    - **Sublevel One**  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+- **Level One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+- **Level One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    - **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    - **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
 
-Create a Markdown file at `docs/hello.md`:
+## Ordered lists
 
-```md title="docs/hello.md"
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
-
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```
+1. **Level One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    1. **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    2. **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    3. **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+        1. **Sublevel Two** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+        2. **Sublevel Two** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+2. **Level One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+3. **Level One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    1. **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
+    2. **Sublevel One** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ac laoreet lectus. Pellentesque ac ligula quam. Donec sollicitudin mauris id arcu suscipit, ut facilisis nunc tincidunt.
